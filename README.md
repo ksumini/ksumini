@@ -1,5 +1,4 @@
-### Hi there 👋
-:computer: Previous
+### :computer: Previous
 - Smartmind.Inc datascience team internship
 <!--
 **ksumini/ksumini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
