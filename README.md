@@ -1,5 +1,13 @@
 ### :computer: Previous
 - Smartmind.Inc datascience team internship
+- Hanyang university 
+
+### :mag_right: Interest
+- E-sports data analysis
+- Reinforcement Learning
+- Recommendation System
+
+
 <!--
 **ksumini/ksumini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
