@@ -1,10 +1,9 @@
 ### :computer: Previous
 - Smartmind.Inc datascience team internship
-- Hanyang university 
+- Hanyang university big data analysis program
 
 ### :mag_right: Interest
 - E-sports data analysis
-- Reinforcement Learning
 - Recommendation System
 
 
