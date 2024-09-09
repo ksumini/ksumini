@@ -21,11 +21,17 @@
 </br>
 
 ## 👩‍💻 Experiences
+`Eazel` - **Data Engineer** (2023.11 ~ 2024.06)
+- 데이터 파이프라인 구축
+- 데이터 정합성 검증을 위한 크롤러 개발
+- RAG(Text-To-SQL)을 위한 Neo4J 데이터 모델링 및 LangChain Agent Tool API 개발 
+
 `Boostcamp AI Tech` - **COFFEE PLAYLIST Project** (2023.07 ~ 2023.08) 
-- 커피 원두 추천 웹 서비스
+- 배치 데이터 수집 및 정합성 검증 프로세스 (데이터셋 구축)
 
 `Smartmind.Inc` - **Datascience Project & Internship** (2021.03 ~ 2021.09)     
-- AI 기반 디지털 마케팅/광고 플랫폼 개발 프로젝트
+- 자사 서비스를 통해 여러 플랫폼의 광고 생성/수정/삭제가 가능하도록 광고 플랫폼별 API 통합
+- 데이터 수집 배치 파이프라인 구축
 
 </br>
 
@@ -46,12 +52,18 @@
 </br>
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/mssql-%2307405e.svg?style=flat&logo=microsoftsqlserver&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"></a>
+<!--   <img src="https://img.shields.io/badge/MSSQL-%2307405e.svg?style=flat&logo=microsoftsqlserver&logoColor=white"></a> -->
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Amazon API Gateway-FF4F8B?style=flat&logo=Amazon API Gateway&logoColor=white"></a>
+
+  
 </div>
 
 </br>
